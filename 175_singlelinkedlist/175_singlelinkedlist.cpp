@@ -8,3 +8,7 @@ struct Node {
 };
 
 Node* START = NULL;
+
+void addNotde() {
+
+}
