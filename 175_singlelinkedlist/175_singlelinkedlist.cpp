@@ -34,3 +34,7 @@ void addNotde() {
 	Node* current = START;
 	Node* current = START;
 }
+
+bool searchNode(int nim, Node* current, Node* previous) {
+
+}
